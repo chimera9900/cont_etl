@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_gubtgA-5EeqCMfdrxHnKlA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_gubtgQ-5EeqCMfdrxHnKlA" comment="" name="exec_id" prompt="exec_id?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_KXkR0A-8EeqCMfdrxHnKlA" comment="" name="source_dir" prompt="source_dir?" promptNeeded="false" type="id_String" value="/home/jen/Downloads/talend stuff/source/"/>
+  <contextParameter xmi:id="_KXkR0Q-8EeqCMfdrxHnKlA" comment="" name="source_name" prompt="source_name?" promptNeeded="false" type="id_String" value="sourcefile.csv"/>
+  <contextParameter xmi:id="_o6EnQBB_EeqRbK1blOHJRQ" comment="" name="log_key" prompt="log_key?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_a-RdEBF3EeqifdhyhUd88A" comment="" name="max_product_id" prompt="max_product_id?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_9K94cBGOEeqifdhyhUd88A" comment="" name="max_broker_id" prompt="max_broker_id?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_I-iI8BGWEeqifdhyhUd88A" comment="" name="max_country_id" prompt="max_country_id?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_-ZjtUBGgEeqifdhyhUd88A" comment="" name="max_cp_id" prompt="max_cp_id?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_grf0cBINEeq6Mc-XAEySZg" comment="" name="max_prod_quality" prompt="max_prod_quality?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_HI0KwBIVEeq6Mc-XAEySZg" comment="" name="max_profit_center_key" prompt="max_profit_center_key?" promptNeeded="false" type="id_Integer" value=""/>
+</talendfile:ContextType>
